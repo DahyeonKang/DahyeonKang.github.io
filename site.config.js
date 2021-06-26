@@ -8,7 +8,7 @@ module.exports = {
 
   // basic site info (required)
   name: 'Dahyeon Kang',
-  domain: 'Kang.github.io',
+  domain: 'kang-github-io',
   author: 'Dahyeon Kang',
 
   // open graph metadata (optional)
